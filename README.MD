@@ -9,5 +9,5 @@ Links to the tilesets: \
 https://limezu.itch.io/moderninteriors \
 https://momen-games.itch.io/happy-la-v2-ts
 
-Tutorial I learned this from: \
+Reference tutorial: \
 https://www.youtube.com/watch?v=gwtfWORCN0U
