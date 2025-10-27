@@ -4,8 +4,7 @@
 
 This is a personal portfolio website inspired by 2D pixel games. 
 
-View demo: \
-https://luwoon.github.io/Kaboom.html
+![Screenshot](Kaboom.png)
 
 Links to the tilesets: \
 https://limezu.itch.io/moderninteriors \
