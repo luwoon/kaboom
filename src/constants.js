@@ -7,5 +7,5 @@ export const dialogueData = {
   exercise: `It's so calming and energizing to start my mornings with mat pilates and yoga. I love the achievement and progress that come with working towards tough yoga asanas. I also go for spin classes!`,
   door: `Leaving? Let's keep in touch! You can reach me at "pangluwoon@gmail.com".`,
   bed: `I'm an advocate of sufficient sleep and waking up with the sun! Remember to stay well-rested. :-)`,
-  piano: `Music has a special place in my heart. I play the piano and viola and perform in orchestras in Singapore!`,
+  piano: `Music has a special place in my heart. I play the piano and viola and perform in orchestras in Singapore.`,
 };
