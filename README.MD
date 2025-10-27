@@ -1,6 +1,8 @@
 # 2D Game Portfolio Website
 
-This is a personal portfolio website inspired by 2D games. It was created using the Kaboom.js library, HTML, and CSS.
+## Tools used: Kaboom.js, HTML, CSS
+
+This is a personal portfolio website inspired by 2D pixel games. 
 
 View demo: \
 https://luwoon.github.io/Kaboom.html
